@@ -4917,7 +4917,7 @@ input[type=number] {
 	.iknow_tm_resume .info_list ul li .short .job span{font-size: 16px;}
 	.circular_progress_bar .list_inner:after{width: 155px;height: 155px;}
 	.circular_progress_bar .number{font-size: 20px;}
-	.circular_progress_bar .title{max-width: 120px;}
+	.circular_progress_bar .title{max-width: 130px;}
 	.circular_progress_bar .title h3{font-size: 19px;}
 	.iknow_tm_fixed_content .iknow_tm_portfolio .portfolio_list .svg{width: 30px;height: 30px;}
 	.iknow_tm_fixed_content .iknow_tm_portfolio .portfolio_list .details{padding-bottom: 15px;}
