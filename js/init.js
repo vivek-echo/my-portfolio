@@ -174,12 +174,13 @@ function iknow_tm_portfolio(){
 function iknow_tm_portfolio_popup(){
 	
 	"use strict";
-	
 	var modalBox		= jQuery('.iknow_tm_modalbox');
 	var button			= jQuery('.iknow_tm_portfolio .portfolio_popup');
 	var closePopup		= modalBox.find('.close');
-	
 	button.off().on('click',function(){
+		console.log("modalBox",modalBox);
+		console.log("closePopup",closePopup);
+		console.log("click on")
 		var element = jQuery(this);
 		var parent 	= element.closest('.list_inner');
 		var content = parent.find('.hidden_content').html();

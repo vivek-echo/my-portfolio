@@ -2094,7 +2094,7 @@ body.dark .loader_line:after{
 	margin-bottom: 60px;
 }
 .iknow_tm_modalbox .main_details .textbox{
-	width: 70%;
+	width: 130%;
 	padding-right: 40px;
 }
 .iknow_tm_modalbox .main_details .textbox p{
@@ -2620,7 +2620,7 @@ body.dark .loader_line:after{
 	padding-top: 70px;
 }
 .iknow_tm_contact .wrapper .left{
-	width: 35%;
+	width: 55%;
 	padding-right: 40px;
 }
 .iknow_tm_contact .wrapper .left ul{
